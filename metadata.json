@@ -1,0 +1,6 @@
+{
+  "name": "The Kenya Chronicle",
+  "description": "East Africa's premier digital news, politics, business, entertainment, multimedia and investigative journalism network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
